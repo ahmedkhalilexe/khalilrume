@@ -1,5 +1,5 @@
 # 💫 About Me:
-🌱 currently learning Flutter
+🌱 currently learning React.js
 
 
 ## 🌐 Socials:
